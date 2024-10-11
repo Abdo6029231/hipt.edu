@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#nheader{
+    padding: 25px;
+}
+
+  h1{
+    color: black;
+  }
+
+#npara{
+    background-color: #2980b9;
+    height: 350px;
+    padding: 30px ;
+}
+.text_para{
+    color: black;
+    font-size: 24px;
+    font-family: verdana;
+}
+
+#footer{
+    background-color: purple;
+    padding: 50px;
+}
+
